@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> Laura Makokha</title>
+<title> CSD 340 Web Development with HTML and CSS </title>
 </head>
 
 <body>
-Welcome to my page! My name is Laura Makokha, and I am a software engineer with a passion for developing innovative solutions. I have experience in various programming languages and frameworks, and I enjoy working on challenging projects that push the boundaries of technology.
+    <h1>Assignment 1.3 - Building a Web Page Exercise, Part 1 </h1>
+    <P> Dallas, Tx
+        weather is 75 degrees Fahrenheit,
+        with a 10% chance of rain.
+    </P>
 </body>
 
 </html>
